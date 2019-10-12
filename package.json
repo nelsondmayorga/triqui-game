@@ -1,0 +1,25 @@
+{
+  "name": "triquigame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.3",
+    "readline-sync": "^1.4.10",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsondmayorga/triqui-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsondmayorga/triqui-game/issues"
+  },
+  "homepage": "https://github.com/nelsondmayorga/triqui-game#readme"
+}
