@@ -1,7 +1,7 @@
 # triqui-game
 Triqui realizado en Typescript con Programación Orientada a Objetos
 
-## Instación
+## Instalación
     
     $ npm install -g typescript
     $ git clone https://github.com/nelsondmayorga/triqui-game.git
